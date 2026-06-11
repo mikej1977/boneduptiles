@@ -284,4 +284,3 @@ MyMod/
 - **The 2D sprite is hidden once the model renders.** If the model fails to
   load, the object falls back to drawing whatever sprite name you created it
   with.
-```
